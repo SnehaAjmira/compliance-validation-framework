@@ -1,0 +1,12 @@
+21 CFR Part 11 Audit Trail Check
+Generated (UTC),2026-11-17 22:20
+Entries checked,8
+Compliant entries,3
+Compliance %,37.5
+
+Row,Record ID,Issues
+3,SMP-1002,Missing reason_for_change
+4,SMP-1003,Missing user_id
+5,SMP-1004,Reason for change is generic
+6,SMP-1001,Timestamp not in ISO 8601 format
+8,SMP-1006,Missing new_value

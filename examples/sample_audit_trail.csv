@@ -1,0 +1,9 @@
+timestamp,user_id,action_type,record_id,field_name,old_value,new_value,reason_for_change
+2026-03-02T08:14:22,jdoe,CREATE,SMP-1001,status,,Received,Sample logged at intake
+2026-03-02T09:40:05,jdoe,UPDATE,SMP-1001,result_value,4.12,4.21,Transcription error corrected per notebook p.42
+2026-03-02T10:02:51,asmith,UPDATE,SMP-1002,result_value,98.6,99.1,
+2026-03-02T11:15:09,,UPDATE,SMP-1003,status,In Test,Complete,Testing finished
+2026-03-02T13:27:44,mlee,UPDATE,SMP-1004,specification,NMT 0.5%,NMT 1.0%,update
+2026-03/02 14:03,jdoe,APPROVE,SMP-1001,approval_status,Pending,Approved,Second-person review completed
+2026-03-02T15:45:30,asmith,DELETE,SMP-1005,result_value,12.7,,Duplicate entry removed per deviation DEV-0311
+2026-03-02T16:20:12,mlee,UPDATE,SMP-1006,unit,mg/mL,,Unit standardization
